@@ -9,7 +9,7 @@ adult-data.csv in Data directory
 
 Data columns (total 15 columns):
 
- #   Column          Non-Null Count  Dtype 
+     Column          Non-Null Count  Dtype 
 ---  ------          --------------  ----- 
  0   age             32561 non-null  int64 
  1   workclass       32561 non-null  object
@@ -29,7 +29,7 @@ Data columns (total 15 columns):
  
 Data gender counts
 
-  #   gender          Female   Male
+       gender          Female   Male
       Female: 0       -------  ----- 
       Male:   1         10771  21790  
                     
@@ -37,5 +37,6 @@ Data gender counts
 
 ann_salary feature
 2 classes
+
 <=50K    24720
 >50K      7841
