@@ -33,7 +33,7 @@ Data gender counts
 # Output
 
 ann_salary feature
-2 classes
+	2 classes
 
-<=50K    24720
->50K      7841
+	<=50K    24720
+	>50K      7841
