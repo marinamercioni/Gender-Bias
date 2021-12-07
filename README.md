@@ -8,8 +8,8 @@ adult-data.csv in Data directory
 32561 rows, 14 columns (features)
 
 Data columns (total 15 columns): 
-age
-workclass
+age \n
+workclass \n
 fnlwgt
 education
 education_num
