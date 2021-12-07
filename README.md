@@ -8,21 +8,21 @@ adult-data.csv in Data directory
 32561 rows, 14 columns (features)
 
 Data columns (total 15 columns): 
-age \n
-workclass \n
-fnlwgt
-education
-education_num
-marital_status
-occupation
-relationship
-race
-sex
-capital_gain
-capital_loss
-hours_per_week
-country
-ann_salary
+	age 
+	workclass 
+	fnlwgt
+	education
+	education_num
+	marital_status
+	occupation
+	relationship
+	race
+	sex
+	capital_gain
+	capital_loss
+	hours_per_week
+	country
+	ann_salary
  
 Data gender counts
 
